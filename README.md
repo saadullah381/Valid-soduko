@@ -14,5 +14,5 @@ Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be val
 
 ## Installation
 
-Use the GitHub website link (https://github.com/saadullah381/Valid-Sudoku.git) to install python code.
+Use the GitHub website link (https://github.com/saadullah381/Valid-soduko.git) to install python code.
 
